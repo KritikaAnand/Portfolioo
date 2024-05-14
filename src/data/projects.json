@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Random Image Feed",
+      "imageSrc": "projects/random.png",
+      "description": "A simple and delightful web project showcasing dynamic image display. Refresh the page to explore an ever-changing visual experience.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://kritikaanand.github.io/Random-Feed-generator/",
+      "source": "https://github.com/KritikaAnand/Random-Feed-generator"
+    },
+    {
+      "title": "Personal Portfolio",
+      "imageSrc": "projects/personal.png",
+      "description": "Crafted a portfolio website from scratch to showcase my skills and experience. The website features a clean and modern design.",
+      "skills": ["React", "CSS", "Figma"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Speech Recognition Assistant",
+      "imageSrc": "projects/csharp.png",
+      "description": "A C# WinForms project featuring speech recognition and synthesis. Named 'Synthia', it provides predefined interactions through spoken commands 🚀",
+      "skills": ["C#"],
+      "demo": "https://github.com/KritikaAnand/Speech_Recognition_",
+      "source": "https://github.com/KritikaAnand/Speech_Recognition_"
+    },
+    {
+      "title": "Image Steganography",
+      "imageSrc": "projects/hide.png",
+      "description": "Utilizing OpenCV, this project seamlessly hides text/binary data within images. Features password-protected encoding and customizable message decoration.",
+      "skills": ["Python", "OpenCV"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/KritikaAnand/ImageSteganography"
+    }
+  ]

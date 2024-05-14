@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Web Development Intern",
+      "organisation": "Intern Army",
+      "startDate": "March, 2024",
+      "endDate": "Present",
+      "experiences": ["Personal Portfolio", "URL Shortening Page"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Cyber Security Intern",
+      "organisation": "IBM SkillsBuild",
+      "startDate": "  Oct, 2023",
+      "endDate": "Nov, 2023",
+      "experiences": ["Worked on Steganography technique", "Worked on a project Hiding messages in an image"],
+      "imageSrc": "history/microsoft.png"
+    }
+    
+  ]
